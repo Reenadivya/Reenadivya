@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a frontend developer who is passionate about creating visually stunning websites with great user experience. I specialize in using React, HTML, CSS, and JavaScript to build web applications that are fast, responsive, and accessible.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reenadivya)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Reenadivya/reenadivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
