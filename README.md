@@ -13,7 +13,11 @@ Take a look at my repositories to see some of my work and feel free to reach out
 
 ## Examples of work
 
+Ecommerce Store
 <img width="400px" alt="Glamour Boutique Ecommerce Site React" src="https://user-images.githubusercontent.com/107604182/233526341-c0b21c4a-8a6b-4718-94c4-7f6f55225749.png">
+
+NFT Marketplace for Internship Project
+<img width="1400" alt="Virtual Internship_NFT Marketplace" src="https://user-images.githubusercontent.com/107604182/233526548-a5ef6c7f-3f55-4945-9ee3-fc5b907ce82a.png">
 
 
 ## Skills and Experience 
