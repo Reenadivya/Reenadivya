@@ -4,21 +4,16 @@
 
 I'm a frontend developer who is passionate about creating visually stunning websites with great user experience. I specialize in using React, HTML, CSS, and JavaScript to build web applications that are fast, responsive, and accessible.
 
-##Skills and Experience 
--  React
--  HTML, CSS, JS
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reenadivya)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 I'm a frontend developer who is passionate about creating visually stunning websites with great user experience. I specialize in using React, HTML, CSS, and JavaScript to build web applications that are fast, responsive, and accessible.
 Whether it's a simple landing page or a complex web application, I enjoy the process of turning ideas into reality and creating solutions that solve real-world problems. I'm always learning and exploring new technologies to improve my skills and stay up-to-date with the latest trends in web development.
 
 Take a look at my repositories to see some of my work and feel free to reach out if you'd like to collaborate or have any questions.
 
-Skills: REACT JS / JS / HTML / CSS
+## Skills and Experience 
+-  React
+-  HTML, CSS, JS
 
 - 🔭 I’m currently working on learning more backend 
 - 👯 I’m looking to collaborate on Hackathon projects 
