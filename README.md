@@ -11,6 +11,11 @@ Whether it's a simple landing page or a complex web application, I enjoy the pro
 
 Take a look at my repositories to see some of my work and feel free to reach out if you'd like to collaborate or have any questions.
 
+## Examples of work
+
+<img width="1413" alt="Glamour Boutique Ecommerce Site React" src="https://user-images.githubusercontent.com/107604182/233526341-c0b21c4a-8a6b-4718-94c4-7f6f55225749.png">
+
+
 ## Skills and Experience 
 -  React
 -  HTML, CSS, JS
