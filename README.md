@@ -6,7 +6,8 @@ I'm a frontend developer who is passionate about creating visually stunning webs
 
 ### Hi there 👋, Reena Divya
 #### Design and Development
-![Design and Development](REENA DIVYA.png)
+![REENA DIVYA](https://user-images.githubusercontent.com/107604182/233525788-d9e51a12-af09-4c26-ba8d-a05cac2b93de.png)
+
 
 I'm a frontend developer who is passionate about creating visually stunning websites with great user experience. I specialize in using React, HTML, CSS, and JavaScript to build web applications that are fast, responsive, and accessible.
 Whether it's a simple landing page or a complex web application, I enjoy the process of turning ideas into reality and creating solutions that solve real-world problems. I'm always learning and exploring new technologies to improve my skills and stay up-to-date with the latest trends in web development.
